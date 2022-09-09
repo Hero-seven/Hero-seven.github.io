@@ -6,6 +6,7 @@ keywords:
 author: John Doe
 language: zh-CN
 timezone: ''
+show_downloads: true
 
 
 # Where things are
