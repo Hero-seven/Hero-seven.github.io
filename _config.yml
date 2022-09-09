@@ -1,5 +1,15 @@
+# Site
+title: Seven的个人主页
+subtitle: 'Hero-seven'
+description: 这是个人主页，目前什么也没有
+keywords:
+author: John Doe
+language: zh-CN
+timezone: ''
+
+
 # Where things are
-source              : .
+source              : ./_source
 destination         : ./_site
 collections_dir     : .
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
@@ -75,5 +85,3 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Seven的个人主页
-description: 这是个人主页，目前什么也没有
